@@ -22,7 +22,7 @@
 
 | 名称 | 简介 | 下载链接 |
 |------|------|----------|
-| claude-api-proxy | Claude API 代理配置工具，将其他模型接入 Claude Code 的转换工具 | [下载](https://github.com/yansd001/YansdAI/raw/main/claude-api-proxy.zip) |
+| claude-api-proxy | Claude API 代理配置工具，将其他模型接入 Claude Code 的转换工具 | [下载](https://github.com/yansd001/claude-api-proxy/releases/download/v0.0.3/claude-api-proxy-windows-amd64.zip) |
 
 ---
 
